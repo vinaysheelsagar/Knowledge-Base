@@ -1,0 +1,1 @@
+- Whatever software you’re building, you can be absolutely certain that people will use it in ways you didn’t anticipate. Your software will become a part in a larger system—your only choice is over whether it will be a well-behaved part. ([Source](https://clig.dev/))
